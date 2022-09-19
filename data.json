@@ -1,0 +1,478 @@
+[
+  {
+    "ID": 1,
+    "location": "Košice",
+    "locationTime": "utorok 12:00",
+    "info": "Polojasno",
+    "weather": "18"
+  },
+  {
+    "ID": 2,
+    "location": "Košice",
+    "locationTime": "utorok 12:00",
+    "info": "Polojasno",
+    "weather": "18"
+  },
+  {
+    "ID": 3,
+    "location": "Bratislava",
+    "locationTime": "utorok 12:00",
+    "info": "Polojasno",
+    "weather": "21"
+  },
+  {
+    "ID": 4,
+    "location": "Košice",
+    "locationTime": "utorok 23:00",
+    "info": "Jasno",
+    "weather": "14"
+  },
+  {
+    "ID": 5,
+    "location": "Banská Bystrica",
+    "locationTime": "utorok 23:00",
+    "info": "Polojasno",
+    "weather": "13"
+  },
+  {
+    "ID": 6,
+    "location": "Košice",
+    "locationTime": "štvrtok 13:00",
+    "info": "Polojasno",
+    "weather": "22"
+  },
+  {
+    "ID": 7,
+    "location": "Košice",
+    "locationTime": "štvrtok 13:00",
+    "info": "Polojasno",
+    "weather": "22"
+  },
+  {
+    "ID": 8,
+    "location": "Košice",
+    "locationTime": "štvrtok 18:00",
+    "info": "Polojasno",
+    "weather": "22"
+  },
+  {
+    "ID": 9,
+    "location": "Košice",
+    "locationTime": "štvrtok 18:00",
+    "info": "Polojasno",
+    "weather": "22"
+  },
+  {
+    "ID": 10,
+    "location": "Košice",
+    "locationTime": "štvrtok 19:00",
+    "info": "Polojasno",
+    "weather": "21"
+  },
+  {
+    "ID": 11,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 19:00",
+    "info": "Polojasno",
+    "weather": "20"
+  },
+  {
+    "ID": 12,
+    "location": "Košice",
+    "locationTime": "štvrtok 19:00",
+    "info": "Polojasno",
+    "weather": "21"
+  },
+  {
+    "ID": 13,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 19:00",
+    "info": "Polojasno",
+    "weather": "20"
+  },
+  {
+    "ID": 14,
+    "location": "Banská Bystrica",
+    "locationTime": "štvrtok 19:00",
+    "info": "Oblačno",
+    "weather": "19"
+  },
+  {
+    "ID": 15,
+    "location": "Košice",
+    "locationTime": "štvrtok 19:00",
+    "info": "Polojasno",
+    "weather": "21"
+  },
+  {
+    "ID": 16,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 19:00",
+    "info": "Slabé dažďové prehánky",
+    "weather": "20"
+  },
+  {
+    "ID": 17,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 22:00",
+    "info": "Polojasno",
+    "weather": "17"
+  },
+  {
+    "ID": 18,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 22:00",
+    "info": "Polojasno",
+    "weather": "17"
+  },
+  {
+    "ID": 19,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 22:00",
+    "info": "Polojasno",
+    "weather": "17"
+  },
+  {
+    "ID": 20,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 22:00",
+    "info": "Polojasno",
+    "weather": "17"
+  },
+  {
+    "ID": 21,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 22:00",
+    "info": "Polojasno",
+    "weather": "17"
+  },
+  {
+    "ID": 22,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 22:00",
+    "info": "Oblačno",
+    "weather": "17"
+  },
+  {
+    "ID": 23,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 22:00",
+    "info": "Oblačno",
+    "weather": "17"
+  },
+  {
+    "ID": 24,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 22:00",
+    "info": "Oblačno",
+    "weather": "17"
+  },
+  {
+    "ID": 25,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 22:00",
+    "info": "Oblačno",
+    "weather": "17"
+  },
+  {
+    "ID": 26,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 22:00",
+    "info": "Oblačno",
+    "weather": "17"
+  },
+  {
+    "ID": 27,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 22:00",
+    "info": "Oblačno",
+    "weather": "17"
+  },
+  {
+    "ID": 28,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 22:00",
+    "info": "Oblačno",
+    "weather": "17"
+  },
+  {
+    "ID": 29,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 22:00",
+    "info": "Oblačno",
+    "weather": "17"
+  },
+  {
+    "ID": 30,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 22:00",
+    "info": "Oblačno",
+    "weather": "17"
+  },
+  {
+    "ID": 31,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 22:00",
+    "info": "Oblačno",
+    "weather": "17"
+  },
+  {
+    "ID": 32,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 22:00",
+    "info": "Oblačno",
+    "weather": "17"
+  },
+  {
+    "ID": 33,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 22:00",
+    "info": "Oblačno",
+    "weather": "17"
+  },
+  {
+    "ID": 34,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 22:00",
+    "info": "Oblačno",
+    "weather": "17"
+  },
+  {
+    "ID": 35,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 23:00",
+    "info": "Slabé dažďové prehánky",
+    "weather": "17"
+  },
+  {
+    "ID": 36,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 23:00",
+    "info": "Slabé dažďové prehánky",
+    "weather": "17"
+  },
+  {
+    "ID": 37,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 23:00",
+    "info": "Slabé dažďové prehánky",
+    "weather": "17"
+  },
+  {
+    "ID": 38,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 23:00",
+    "info": "Slabé dažďové prehánky",
+    "weather": "17"
+  },
+  {
+    "ID": 39,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 23:00",
+    "info": "Slabé dažďové prehánky",
+    "weather": "17"
+  },
+  {
+    "ID": 40,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 23:00",
+    "info": "Slabé dažďové prehánky",
+    "weather": "17"
+  },
+  {
+    "ID": 41,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 23:00",
+    "info": "Slabé dažďové prehánky",
+    "weather": "17"
+  },
+  {
+    "ID": 42,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 23:00",
+    "info": "Dážď",
+    "weather": "17"
+  },
+  {
+    "ID": 43,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 23:00",
+    "info": "Dážď",
+    "weather": "17"
+  },
+  {
+    "ID": 44,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 23:00",
+    "info": "Dážď",
+    "weather": "17"
+  },
+  {
+    "ID": 45,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 23:00",
+    "info": "Dážď",
+    "weather": "17"
+  },
+  {
+    "ID": 46,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 23:00",
+    "info": "Dážď",
+    "weather": "17"
+  },
+  {
+    "ID": 47,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 23:00",
+    "info": "Dážď",
+    "weather": "17"
+  },
+  {
+    "ID": 48,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 23:00",
+    "info": "Dážď",
+    "weather": "17"
+  },
+  {
+    "ID": 49,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 23:00",
+    "info": "Dážď",
+    "weather": "17"
+  },
+  {
+    "ID": 50,
+    "location": "Bratislava",
+    "locationTime": "štvrtok 23:00",
+    "info": "Dážď",
+    "weather": "17"
+  },
+  {
+    "ID": 51,
+    "location": "Bratislava",
+    "locationTime": "piatok 00:00",
+    "info": "Dážď",
+    "weather": "16"
+  },
+  {
+    "ID": 52,
+    "location": "Bratislava",
+    "locationTime": "piatok 00:00",
+    "info": "Dážď",
+    "weather": "16"
+  },
+  {
+    "ID": 53,
+    "location": "Košice",
+    "locationTime": "piatok 09:00",
+    "info": "Oblačno",
+    "weather": "14"
+  },
+  {
+    "ID": 54,
+    "location": "Košice",
+    "locationTime": "piatok 09:00",
+    "info": "Oblačno",
+    "weather": "14"
+  },
+  {
+    "ID": 55,
+    "location": "Košice",
+    "locationTime": "piatok 09:00",
+    "info": "Oblačno",
+    "weather": "15"
+  },
+  {
+    "ID": 56,
+    "location": "Košice",
+    "locationTime": "sobota 12:00",
+    "info": "Oblačno",
+    "weather": "16"
+  },
+  {
+    "ID": 57,
+    "location": "Košice",
+    "locationTime": "sobota 12:00",
+    "info": "Oblačno",
+    "weather": "16"
+  },
+  {
+    "ID": 58,
+    "location": "Košice",
+    "locationTime": "sobota 18:00",
+    "info": "Oblačno",
+    "weather": "14"
+  },
+  {
+    "ID": 59,
+    "location": "Košice",
+    "locationTime": "nedeľa 10:00",
+    "info": "Polojasno",
+    "weather": "12"
+  },
+  {
+    "ID": 60,
+    "location": "Košice",
+    "locationTime": "nedeľa 12:00",
+    "info": "Oblačno",
+    "weather": "13"
+  },
+  {
+    "ID": 61,
+    "location": "Košice",
+    "locationTime": "nedeľa 21:00",
+    "info": "Jasno s občasnou oblačnosťou",
+    "weather": "9"
+  },
+  {
+    "ID": 62,
+    "location": "Košice",
+    "locationTime": "nedeľa 21:00",
+    "info": "Jasno s občasnou oblačnosťou",
+    "weather": "9"
+  },
+  {
+    "ID": 63,
+    "location": "Banská Bystrica",
+    "locationTime": "nedeľa 21:00",
+    "info": "Oblačno",
+    "weather": "7"
+  },
+  {
+    "ID": 64,
+    "location": "Žilina",
+    "locationTime": "nedeľa 21:00",
+    "info": "Polojasno",
+    "weather": "8"
+  },
+  {
+    "ID": 65,
+    "location": "Banská Bystrica",
+    "locationTime": "nedeľa 21:00",
+    "info": "Oblačno",
+    "weather": "7"
+  },
+  {
+    "ID": 66,
+    "location": "Košice",
+    "locationTime": "nedeľa 21:00",
+    "info": "Jasno s občasnou oblačnosťou",
+    "weather": "9"
+  },
+  {
+    "ID": 67,
+    "location": "Košice",
+    "locationTime": "pondelok 14:00",
+    "info": "Polojasno",
+    "weather": "9"
+  },
+  {
+    "ID": 68,
+    "location": "Košice",
+    "locationTime": "pondelok 14:00",
+    "info": "Polojasno",
+    "weather": "9"
+  }
+]
